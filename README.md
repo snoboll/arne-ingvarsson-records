@@ -17,11 +17,6 @@ Ett digital musikhem för TOP HIT BANGERS såsom "softa härnet affär", "du sku
 - "När kommer nästa BÄNGER?": När Arne får Feeling.
 - "Tralalero Tralala?": Bombini Gusini
 
-
-## 🛑 Licens
-
-I princip allt här är 
-
 ---
 
 Zhug Minh Dong:
